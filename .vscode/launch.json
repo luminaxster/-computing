@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DataLoop",
+            "request": "launch",
+            "mainClass": "DataLoop",
+            "projectName": "computing_7c3aeefd"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -14,8 +21,8 @@
             "type": "java",
             "name": "DataLoop",
             "request": "launch",
-            "mainClass": "DataLoop",
-            "projectName": "week02_section03_3bafa3af"
+            "mainClass": "DataLooper",
+            "projectName": "computing_7c3aeefd"
         }
     ]
 }
