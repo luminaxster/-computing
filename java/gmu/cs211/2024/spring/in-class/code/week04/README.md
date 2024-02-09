@@ -8,4 +8,4 @@ Another take on the same abstractions from other perspectives and abstracting th
 
 
 ## package_src
-- source related to what was sketched in class.
+- source related to what was sketched in class on `package` vs `import`, visibility modifiers (`public`, `protected`, and `private`), and `API` vs `CLI`.
