@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"week06.day22"},{"l":"week06.day23"}];updateSearchResults();
