@@ -59,7 +59,7 @@ java week06/day22/A
 ### Generating the doc
 
 ```sh
-javadoc week06/**/*.java -d docs
+javadoc week06/**/*.java -d week06/docs
 ```
 
 Go to `docs/index.html` and we are done =P.
