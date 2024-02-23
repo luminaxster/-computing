@@ -8,7 +8,7 @@ We now do a traversal of every week to culminate in the Java docs, the official 
 
 ## The directories
 
-The root directory for the example is `week06`, wich contains the directories `day22` and and `day23`.
+The root directory for the example is `week06`, which contains the directories `day22` and and `day23`.
 
 ## The Java files
 
