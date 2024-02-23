@@ -1,6 +1,9 @@
-# From classes to Docs
+# From Classes to Docs
 
-The goal of this example is to show you how to use your classes in packages, import them, create relationships among your classes and interfaces, and how casting and synamic dispatch were there all along.
+The goal of this example is to integrate what we have learned so far:
+ - show you how to use your classes in packages,
+ - import them, create relationships among your classes and interfaces,
+ -  and how casting and dynamic dispatch were there all along.
 
 We now do a traversal of every week to culminate in the Java docs, the official one. A quick refresher of what we have done so far and how it builds up to understanding the pages such:
 
