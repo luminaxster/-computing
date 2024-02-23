@@ -107,7 +107,7 @@ javadoc week06/**/*.java -d week06/docs
 **[CMD]** 
 
 ```sh
-javadoc week06\**\*.java -d week06/docs
+javadoc week06\**\*.java -d week06\docs
 ```
 
 ## Donzo Gonzo
