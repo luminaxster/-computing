@@ -114,7 +114,7 @@ javadoc week06\**\*.java -d week06\docs
 
 Please peruse the files to locate the classes, inheritance and interface syntax examples.
 
-Go to your documentation starting page to check your Java Docs:
+Go to your documentation starting page to check your Java Docs in the `week06` directory:
 
  `docs/index.html`
 
