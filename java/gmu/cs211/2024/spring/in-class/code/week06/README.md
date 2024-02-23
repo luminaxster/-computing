@@ -114,4 +114,8 @@ javadoc week06\**\*.java -d week06\docs
 
 Please peruse the files to locate the classes, inheritance and interface syntax examples.
 
-Go to  to check your Java Docs, and we are done =P. [docs/index.html](https://github.com/luminaxster/computing/edit/main/java/gmu/cs211/2024/spring/in-class/code/week06/docs/index.html)
+Go to your documentation starting page to check your Java Docs:
+
+ [docs/index.html](https://raw.githubusercontent.com/luminaxster/computing/main/java/gmu/cs211/2024/spring/in-class/code/week06/docs/index.html)
+
+And we are done =P. 
