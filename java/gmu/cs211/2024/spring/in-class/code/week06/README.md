@@ -57,14 +57,16 @@ dir
 ### Editing files
 
 You can access any of the files with the commands:
+
 **[Terminal]** 
+
 ```sh
  vim week06/day22/A.java
  vim week06/day22/B.java
  vim week06/day22/Able.java
  vim week06/day23/C.java
 ```
-In Windows, try NotePad++, you can also use IDEs such as VSCode or IntelliJ. However, limited them to the editing part. Do compilation and run via OS CLI, remember what happened to me in class =(. You don't want to happen in your interview!
+In Windows, try NotePad++ since it lacks a decent CLI text editor. You can also use IDEs such as VSCode or IntelliJ. However, limited them to the **editing part**. Do compilation and run via OS CLI, remember what happened to me in class =(. You don't want to happen in your interview!
 
 ### Compiling Java files
 
