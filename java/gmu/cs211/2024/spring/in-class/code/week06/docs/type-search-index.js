@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"week06.day22","l":"A"},{"p":"week06.day22","l":"Able"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"week06.day22","l":"B"},{"p":"week06.day23","l":"C"}];updateSearchResults();
