@@ -116,6 +116,6 @@ Please peruse the files to locate the classes, inheritance and interface syntax 
 
 Go to your documentation starting page to check your Java Docs:
 
- [docs/index.html](https://raw.githubusercontent.com/luminaxster/computing/main/java/gmu/cs211/2024/spring/in-class/code/week06/docs/index.html)
+ [docs/index.html](https://luminaxster.github.io/java/gmu/cs211/2024/spring/in-class/code/week06/docs/index.html)
 
 And we are done =P. 
