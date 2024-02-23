@@ -6,7 +6,8 @@ public class A{
 	public  static void main(String[] args){
 		Object b = new B();
 		Able bi = (Able)b;
-		bi.doIt();
+		// Able b = new B(); // same thing as above but implicit, casting was there from day 0. You cast the object reference as any of the super classes or interfaces in its hierarchies. The Java docs makes really simple to see them. Remember Object everywhere?
+		bi.doIt(); // same goes with dynamic dispatch, here the doIt() being dispatch is the one in B not in Able. Overrides always uses the lowest overriden method given a concrete class. Remember toString() in P1.
 		C c = new C();
 		System.out.println("Hello");
 	}
